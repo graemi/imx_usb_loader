@@ -7,3 +7,5 @@ imx_uart.lds
 *.imx
 .*.swp
 tests/*.test
+msvc/.vs/
+msvc/*.user
